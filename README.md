@@ -1,6 +1,6 @@
-# Data-Structures-and-Algorithms
+# Data Structures and Algorithms
 Here is the repository of all the data structures and algorithms I have implemented. All the implementations are in java.
-1) Linked Lists:
+1) LinkedLists:
 It has a complete implementation of the singly linked list ADT including the following 8 operations on a linked list:
 a) Insert a node at head
 b) Insert a node at end
