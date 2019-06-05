@@ -15,4 +15,7 @@ h) Return the total number of nodes in a linked list
 2) Stack:
 It has an implementation of the push and pop functions.
 
+3) Queue:
+It has an implementation of the Enqueue, Dequque and Display functions.
+
 Star the repo if you find it useful!
